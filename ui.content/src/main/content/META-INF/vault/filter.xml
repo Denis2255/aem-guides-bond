@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/bond" mode="merge"/>
+    <filter root="/content/bond" mode="merge"/>
+    <filter root="/content/dam/bond" mode="merge"/>
+    <filter root="/content/experience-fragments/bond" mode="merge"/>
+</workspaceFilter>
